@@ -156,7 +156,7 @@ def draw_lines_challenge(img, lines, color=[255, 0, 0], thickness=10):
         x2=(y2-y_r)/k_r+x_r
         cv2.line(img, (int(x1), y1), (int(x2), y2), color, thickness)
 ```
-![alt text][image4]
+![alt text][image5]
 
 
 
